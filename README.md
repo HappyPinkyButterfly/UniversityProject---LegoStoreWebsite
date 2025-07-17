@@ -46,9 +46,8 @@ The application demonstrates a working prototype of an e-commerce system – bui
 ---
 
 ## 🧠 ER Diagram
-
-> *(See full-size image in `ShowcaseMedia/349483940-f474c19a...png`)*  
-![ER Diagram](ShowcaseMedia/349483940-f474c19a-1ece-4224-8e8e-4826a767f811.png)
+### 🔹 ER Diagram
+![ER Diagram](ErDiagram.png)
 
 ---
 
