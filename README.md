@@ -53,12 +53,20 @@ The application demonstrates a working prototype of an e-commerce system – bui
 
 ## ⚠️ Developer Note
 
-This project was written early in my journey – the codebase is rough, but the system works. If I were to rebuild it today, I would:
+This project was written early in my development journey, and the codebase reflects that.  
+Still, it represents a real working web application built from scratch using Python.
 
-- Use **Flask or Django** for the backend
-- Add proper frontend styling (Bootstrap/Vue/React)
-- Modularize the code for scalability
-- Use ORM (like SQLAlchemy) instead of raw SQL
+If I were to rebuild it today, I would:
+
+- ✅ Use a more modern web framework like **Flask** or **Django** – or even **Java Spring Boot** for a scalable backend architecture.
+- ⚙️ Avoid scraping/BeautifulSoup for internal content and instead use proper API-based or MVC design.
+- 🎨 Implement a clean, responsive UI with **React** or **Vue** and styling libraries like **Bootstrap** or **Tailwind**.
+- 🧩 Structure the code into separate modules (routes, services, data access).
+- 🛢️ Use an ORM such as **SQLAlchemy** or **JPA/Hibernate** for safer and more maintainable database handling.
+- ♻️ Optimize for performance, security, and long-term extensibility.
+
+> _"I now understand that the best code is not just working code – it's clean, efficient, and built with future growth in mind."_
+
 
 ---
 
