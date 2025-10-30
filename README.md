@@ -4,7 +4,7 @@
 
 ---
 
-## 🛒 About the Project
+##  About the Project
 
 This project simulates a functional **LEGO online store** with a fully connected backend database. Users can register, browse LEGO sets, apply advanced filters, place orders, and view their past purchases.
 
